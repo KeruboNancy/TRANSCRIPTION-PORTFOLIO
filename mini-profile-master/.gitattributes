@@ -1,0 +1,6 @@
+# Normalize text files to LF in the repository
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+# Let Git handle other files automatically
+* text=auto
